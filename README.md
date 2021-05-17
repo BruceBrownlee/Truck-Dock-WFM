@@ -1,4 +1,4 @@
-# Ted-Bakes-Cake-Python
+# Ted-Bakes-Cakes-Python
 Predictive Model for Labor Hours Forecasting
 
 ## Purpose
