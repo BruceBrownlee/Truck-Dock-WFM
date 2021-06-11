@@ -1,0 +1,15 @@
+---
+
+File_Locations:
+  logbook:  /Users/brucebrownlee/Dev/Code/Github/Ted-Bakes-Cakes-Python/logbook.xlsx
+  log_file: /Users/brucebrownlee/Dev/Code/Github/Ted-Bakes-Cakes-Python/log_file.txt
+
+Tabs:
+  data_tab: RawData  
+
+Run_Time:
+  DEBUG: 1
+
+Credentials:
+  PROD_USER: bruce.brownlee
+
